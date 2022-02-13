@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>index.png</file>
+        <file>open.jpeg</file>
+        <file>save.png</file>
+        <file>back (2).png</file>
+        <file>next.png</file>
+        <file>correct.png</file>
+        <file>left-arrow-in-circular-button-black-symbol.png</file>
+        <file>xml (2).png</file>
+        <file>xml (1).png</file>
+        <file>xml.png</file>
+        <file>xml-file-format-symbol.png</file>
+        <file alias="greater">greater-than-icon-8-removebg-preview.png</file>
+    </qresource>
+</RCC>
